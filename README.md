@@ -8,4 +8,4 @@
 ### *La complejidad temporal Omega: *seria de n*m siendo n las filas y m las columnas. *Si coenciden entonces n^2***
 ### *La complejidad temporal Theta: *seria de n*m siendo n las filas y m las columnas. *Si coenciden entonces n^2***
 #### **Conclusion es que la media de complejidad del algoritmo seria de n^2 o n*m si no coenciden filas y columnas** 
-#### **P.S: este analisis lo puede ver en los comentarios del codigo **
+#### **P.S: este analisis lo puede ver en los comentarios del codigo**
