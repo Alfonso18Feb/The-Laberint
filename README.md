@@ -1,5 +1,5 @@
 # The-Laberint
-## *Word*
+## *Word:El_laberinto*
 ### *en el word aparecera porque elegi el tema y el tema elegido y mucho mas*
 ## Como Ejecutar codigo:
 ### *Este Algoritmo creara un grafo con un camino que serian los vertices del laberinto* puedes pensar como no adyacencia a *los muros**:
