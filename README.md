@@ -13,3 +13,6 @@
 ### *La complejidad temporal Theta: *Como Big O y Omega son iguales a n^2 entonces la complejidad theta seria n^2** Si coenciden m y n***
 #### **Conclusion es que la media de complejidad del algoritmo seria de n^2 o n*m si no coenciden filas y columnas** 
 #### **P.S: este analisis lo puede ver en los comentarios del codigo**
+# **Revomendaciones:**
+## *video de grafos:**https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P**
+## otros videos en el word
